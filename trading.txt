@@ -6,5 +6,9 @@ Renko
 Ashi
 CandleStick
 
+MACD
+SuperTrend
+
+
 Thanks
 
